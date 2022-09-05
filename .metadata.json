@@ -2,5 +2,17 @@
   {
     "package": "linelist",
     "oncran": true
+  },
+  {
+    "package": "readepi"
+  },
+  {
+    "package": "epiparameter"
+  },
+  {
+    "package": "datadelay"
+  },
+  {
+    "package": "finalsize"
   }
 ]

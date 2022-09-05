@@ -1,10 +1,30 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/epiverse-trace/universe
 	shallow = true
 	branch = HEAD
 [submodule "linelist"]
 	path = linelist
 	url = https://github.com/epiverse-trace/linelist
+	shallow = true
+	registered = true
+[submodule "readepi"]
+	path = readepi
+	url = https://github.com/epiverse-trace/readepi
+	shallow = true
+	registered = true
+[submodule "epiparameter"]
+	path = epiparameter
+	url = https://github.com/epiverse-trace/epiparameter
+	shallow = true
+	registered = true
+[submodule "datadelay"]
+	path = datadelay
+	url = https://github.com/epiverse-trace/datadelay
+	shallow = true
+	registered = true
+[submodule "finalsize"]
+	path = finalsize
+	url = https://github.com/epiverse-trace/finalsize
 	shallow = true
 	registered = true
