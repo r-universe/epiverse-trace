@@ -28,3 +28,13 @@
 	url = https://github.com/epiverse-trace/readepi
 	shallow = true
 	registered = true
+[submodule "roxyglobals"]
+	path = roxyglobals
+	url = https://github.com/anthonynorth/roxyglobals
+	shallow = true
+	registered = false
+[submodule "socialmixr"]
+	path = socialmixr
+	url = https://github.com/epiforecasts/socialmixr
+	shallow = true
+	registered = false
