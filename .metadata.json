@@ -1,18 +1,18 @@
 [
   {
-    "package": "linelist",
-    "oncran": true
+    "package": "datadelay"
   },
   {
-    "package": "readepi"
+    "package": "linelist",
+    "oncran": true
   },
   {
     "package": "epiparameter"
   },
   {
-    "package": "datadelay"
+    "package": "finalsize"
   },
   {
-    "package": "finalsize"
+    "package": "readepi"
   }
 ]
