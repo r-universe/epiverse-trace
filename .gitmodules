@@ -28,6 +28,11 @@
 	url = https://github.com/epiverse-trace/readepi
 	shallow = true
 	registered = true
+[submodule "sivirep"]
+	path = sivirep
+	url = https://github.com/epiverse-trace/sivirep
+	shallow = true
+	registered = true
 [submodule "roxyglobals"]
 	path = roxyglobals
 	url = https://github.com/anthonynorth/roxyglobals
