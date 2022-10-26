@@ -33,6 +33,11 @@
 	url = https://github.com/epiverse-trace/sivirep
 	shallow = true
 	registered = true
+[submodule "EpiNow2"]
+	path = EpiNow2
+	url = https://github.com/epiforecasts/EpiNow2
+	shallow = true
+	registered = false
 [submodule "roxyglobals"]
 	path = roxyglobals
 	url = https://github.com/anthonynorth/roxyglobals

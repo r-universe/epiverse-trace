@@ -1,5 +1,11 @@
 [
   {
+    "package": "EpiNow2",
+    "url": "https://github.com/epiforecasts/EpiNow2",
+    "via": ["epiparameter"],
+    "from": "epiparameter"
+  },
+  {
     "package": "roxyglobals",
     "url": "https://github.com/anthonynorth/roxyglobals",
     "via": ["finalsize", "socialmixr"],
