@@ -4,17 +4,5 @@
     "url": "https://github.com/epiforecasts/EpiNow2",
     "via": ["epiparameter"],
     "from": "epiparameter"
-  },
-  {
-    "package": "roxyglobals",
-    "url": "https://github.com/anthonynorth/roxyglobals",
-    "via": ["finalsize", "socialmixr"],
-    "from": "finalsize"
-  },
-  {
-    "package": "socialmixr",
-    "url": "https://github.com/epiforecasts/socialmixr",
-    "via": ["finalsize"],
-    "from": "finalsize"
   }
 ]

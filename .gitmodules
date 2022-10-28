@@ -38,13 +38,3 @@
 	url = https://github.com/epiforecasts/EpiNow2
 	shallow = true
 	registered = false
-[submodule "roxyglobals"]
-	path = roxyglobals
-	url = https://github.com/anthonynorth/roxyglobals
-	shallow = true
-	registered = false
-[submodule "socialmixr"]
-	path = socialmixr
-	url = https://github.com/epiforecasts/socialmixr
-	shallow = true
-	registered = false
