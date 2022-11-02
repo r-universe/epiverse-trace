@@ -33,6 +33,11 @@
 	url = https://github.com/epiverse-trace/sivirep
 	shallow = true
 	registered = true
+[submodule "soap"]
+	path = soap
+	url = https://github.com/epiverse-trace/data_pipelines
+	shallow = true
+	registered = true
 [submodule "EpiNow2"]
 	path = EpiNow2
 	url = https://github.com/epiforecasts/EpiNow2
