@@ -33,9 +33,9 @@
 	url = https://github.com/epiverse-trace/sivirep
 	shallow = true
 	registered = true
-[submodule "soap"]
-	path = soap
-	url = https://github.com/epiverse-trace/data_pipelines
+[submodule "episoap"]
+	path = episoap
+	url = https://github.com/epiverse-trace/episoap
 	shallow = true
 	registered = true
 [submodule "EpiNow2"]
