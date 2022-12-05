@@ -10,7 +10,8 @@
     "package": "epiparameter"
   },
   {
-    "package": "finalsize"
+    "package": "finalsize",
+    "oncran": false
   },
   {
     "package": "readepi"
