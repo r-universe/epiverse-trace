@@ -11,7 +11,7 @@
   },
   {
     "package": "finalsize",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "readepi"
