@@ -6,6 +6,13 @@
     "from": "cfr"
   },
   {
+    "package": "epidemics",
+    "url": "https://github.com/epiverse-trace/epidemics",
+    "via": ["scenarios"],
+    "branch": "f1275c",
+    "from": "scenarios"
+  },
+  {
     "package": "epiparameter",
     "url": "https://github.com/epiverse-trace/epiparameter",
     "via": ["cfr"],
