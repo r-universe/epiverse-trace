@@ -38,6 +38,11 @@
 	url = https://github.com/epiverse-trace/episoap
 	shallow = true
 	registered = true
+[submodule "bpmodels"]
+	path = bpmodels
+	url = https://github.com/epiverse-trace/bpmodels
+	shallow = true
+	registered = true
 [submodule "EpiNow2"]
 	path = EpiNow2
 	url = https://github.com/epiforecasts/EpiNow2
