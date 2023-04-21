@@ -2,12 +2,6 @@
   {
     "package": "EpiNow2",
     "url": "https://github.com/epiforecasts/EpiNow2",
-    "via": ["bpmodels", "epiparameter"],
-    "from": "bpmodels"
-  },
-  {
-    "package": "EpiNow2",
-    "url": "https://github.com/epiforecasts/EpiNow2",
     "via": ["datadelay", "epiparameter"],
     "from": "datadelay"
   },
