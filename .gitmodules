@@ -58,3 +58,8 @@
 	url = https://github.com/rOpenSci/fingertipsR
 	shallow = true
 	registered = false
+[submodule "purrr"]
+	path = purrr
+	url = https://github.com/tidyverse/purrr
+	shallow = true
+	registered = false

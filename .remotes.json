@@ -22,5 +22,11 @@
     "url": "https://github.com/rOpenSci/fingertipsR",
     "via": ["readepi"],
     "from": "readepi"
+  },
+  {
+    "package": "purrr",
+    "url": "https://github.com/tidyverse/purrr",
+    "via": ["serofoi"],
+    "from": "serofoi"
   }
 ]
