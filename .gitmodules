@@ -53,3 +53,8 @@
 	url = https://github.com/epiforecasts/covidregionaldata
 	shallow = true
 	registered = false
+[submodule "fingertipsR"]
+	path = fingertipsR
+	url = https://github.com/rOpenSci/fingertipsR
+	shallow = true
+	registered = false

@@ -22,5 +22,11 @@
     "url": "https://github.com/epiverse-trace/epiparameter",
     "via": ["datadelay"],
     "from": "datadelay"
+  },
+  {
+    "package": "fingertipsR",
+    "url": "https://github.com/rOpenSci/fingertipsR",
+    "via": ["readepi"],
+    "from": "readepi"
   }
 ]
