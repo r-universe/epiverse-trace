@@ -1,11 +1,5 @@
 [
   {
-    "package": "EpiNow2",
-    "url": "https://github.com/epiforecasts/EpiNow2",
-    "via": ["datadelay", "epiparameter"],
-    "from": "datadelay"
-  },
-  {
     "package": "covidregionaldata",
     "url": "https://github.com/epiforecasts/covidregionaldata",
     "via": ["datadelay"],

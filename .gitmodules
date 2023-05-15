@@ -43,11 +43,6 @@
 	url = https://github.com/epiverse-trace/bpmodels
 	shallow = true
 	registered = true
-[submodule "EpiNow2"]
-	path = EpiNow2
-	url = https://github.com/epiforecasts/EpiNow2
-	shallow = true
-	registered = false
 [submodule "covidregionaldata"]
 	path = covidregionaldata
 	url = https://github.com/epiforecasts/covidregionaldata
