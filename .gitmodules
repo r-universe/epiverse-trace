@@ -43,6 +43,11 @@
 	url = https://github.com/epiverse-trace/bpmodels
 	shallow = true
 	registered = true
+[submodule "serofoi"]
+	path = serofoi
+	url = https://github.com/epiverse-trace/serofoi
+	shallow = true
+	registered = true
 [submodule "covidregionaldata"]
 	path = covidregionaldata
 	url = https://github.com/epiforecasts/covidregionaldata
