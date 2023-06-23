@@ -8,12 +8,6 @@
   {
     "package": "epiparameter",
     "url": "https://github.com/epiverse-trace/epiparameter",
-    "via": ["bpmodels"],
-    "from": "bpmodels"
-  },
-  {
-    "package": "epiparameter",
-    "url": "https://github.com/epiverse-trace/epiparameter",
     "via": ["datadelay"],
     "from": "datadelay"
   },
