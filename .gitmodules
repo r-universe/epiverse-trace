@@ -1,65 +1,43 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/epiverse-trace/epiverse-trace.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "datadelay"]
 	path = datadelay
 	url = https://github.com/epiverse-trace/datadelay
-	shallow = true
-	registered = true
 [submodule "linelist"]
 	path = linelist
 	url = https://github.com/epiverse-trace/linelist
-	shallow = true
-	registered = true
 [submodule "epiparameter"]
 	path = epiparameter
 	url = https://github.com/epiverse-trace/epiparameter
-	shallow = true
-	registered = true
 [submodule "finalsize"]
 	path = finalsize
 	url = https://github.com/epiverse-trace/finalsize
-	shallow = true
-	registered = true
 [submodule "readepi"]
 	path = readepi
 	url = https://github.com/epiverse-trace/readepi
-	shallow = true
-	registered = true
 [submodule "sivirep"]
 	path = sivirep
 	url = https://github.com/epiverse-trace/sivirep
-	shallow = true
-	registered = true
 [submodule "episoap"]
 	path = episoap
 	url = https://github.com/epiverse-trace/episoap
-	shallow = true
-	registered = true
 [submodule "bpmodels"]
 	path = bpmodels
 	url = https://github.com/epiverse-trace/bpmodels
-	shallow = true
-	registered = true
 [submodule "serofoi"]
 	path = serofoi
 	url = https://github.com/epiverse-trace/serofoi
-	shallow = true
-	registered = true
 [submodule "covidregionaldata"]
 	path = covidregionaldata
 	url = https://github.com/epiforecasts/covidregionaldata
-	shallow = true
 	registered = false
 [submodule "fingertipsR"]
 	path = fingertipsR
 	url = https://github.com/rOpenSci/fingertipsR
-	shallow = true
 	registered = false
 [submodule "purrr"]
 	path = purrr
 	url = https://github.com/tidyverse/purrr
-	shallow = true
 	registered = false
