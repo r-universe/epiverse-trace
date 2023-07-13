@@ -1,17 +1,5 @@
 [
   {
-    "package": "covidregionaldata",
-    "url": "https://github.com/epiforecasts/covidregionaldata",
-    "via": ["datadelay"],
-    "from": "datadelay"
-  },
-  {
-    "package": "epiparameter",
-    "url": "https://github.com/epiverse-trace/epiparameter",
-    "via": ["datadelay"],
-    "from": "datadelay"
-  },
-  {
     "package": "fingertipsR",
     "url": "https://github.com/rOpenSci/fingertipsR",
     "via": ["readepi"],

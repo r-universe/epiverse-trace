@@ -29,10 +29,6 @@
 [submodule "serofoi"]
 	path = serofoi
 	url = https://github.com/epiverse-trace/serofoi
-[submodule "covidregionaldata"]
-	path = covidregionaldata
-	url = https://github.com/epiforecasts/covidregionaldata
-	registered = false
 [submodule "fingertipsR"]
 	path = fingertipsR
 	url = https://github.com/rOpenSci/fingertipsR
