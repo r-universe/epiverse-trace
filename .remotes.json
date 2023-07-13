@@ -1,5 +1,17 @@
 [
   {
+    "package": "covidregionaldata",
+    "url": "https://github.com/epiforecasts/covidregionaldata",
+    "via": ["cfr"],
+    "from": "cfr"
+  },
+  {
+    "package": "epiparameter",
+    "url": "https://github.com/epiverse-trace/epiparameter",
+    "via": ["cfr"],
+    "from": "cfr"
+  },
+  {
     "package": "fingertipsR",
     "url": "https://github.com/rOpenSci/fingertipsR",
     "via": ["readepi"],
