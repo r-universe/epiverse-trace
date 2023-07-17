@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/epiverse-trace/epiverse-trace.r-universe.dev
 	branch = HEAD
-[submodule "datadelay"]
-	path = datadelay
-	url = https://github.com/epiverse-trace/datadelay
+[submodule "cfr"]
+	path = cfr
+	url = https://github.com/epiverse-trace/cfr
 [submodule "linelist"]
 	path = linelist
 	url = https://github.com/epiverse-trace/linelist
@@ -29,6 +29,12 @@
 [submodule "serofoi"]
 	path = serofoi
 	url = https://github.com/epiverse-trace/serofoi
+[submodule "epidemics"]
+	path = epidemics
+	url = https://github.com/epiverse-trace/epidemics
+[submodule "scenarios"]
+	path = scenarios
+	url = https://github.com/epiverse-trace/scenarios
 [submodule "fingertipsR"]
 	path = fingertipsR
 	url = https://github.com/rOpenSci/fingertipsR
