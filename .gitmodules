@@ -2,19 +2,19 @@
 	path = .registry
 	url = https://github.com/epiverse-trace/epiverse-trace.r-universe.dev
 	branch = HEAD
-[submodule "linelist"]
-	path = linelist
-	url = https://github.com/epiverse-trace/linelist
-[submodule "finalsize"]
-	path = finalsize
-	url = https://github.com/epiverse-trace/finalsize
 [submodule "bpmodels"]
 	path = bpmodels
 	url = https://github.com/epiverse-trace/bpmodels
-[submodule "serofoi"]
-	path = serofoi
-	url = https://github.com/epiverse-trace/serofoi
+[submodule "finalsize"]
+	path = finalsize
+	url = https://github.com/epiverse-trace/finalsize
+[submodule "linelist"]
+	path = linelist
+	url = https://github.com/epiverse-trace/linelist
 [submodule "purrr"]
 	path = purrr
 	url = https://github.com/tidyverse/purrr
 	registered = false
+[submodule "serofoi"]
+	path = serofoi
+	url = https://github.com/epiverse-trace/serofoi
