@@ -5,6 +5,10 @@
 [submodule "bpmodels"]
 	path = bpmodels
 	url = https://github.com/epiverse-trace/bpmodels
+[submodule "epiparameter"]
+	path = epiparameter
+	url = https://github.com/epiverse-trace/epiparameter
+	registered = false
 [submodule "finalsize"]
 	path = finalsize
 	url = https://github.com/epiverse-trace/finalsize
