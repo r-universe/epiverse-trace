@@ -5,6 +5,9 @@
 [submodule "bpmodels"]
 	path = bpmodels
 	url = https://github.com/epiverse-trace/bpmodels
+[submodule "epidemics"]
+	path = epidemics
+	url = https://github.com/epiverse-trace/epidemics
 [submodule "epiparameter"]
 	path = epiparameter
 	url = https://github.com/epiverse-trace/epiparameter
