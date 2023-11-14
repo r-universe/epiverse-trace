@@ -1,12 +1,5 @@
 [
   {
-    "package": "StanHeaders",
-    "url": "https://github.com/stan-dev/rstan",
-    "via": ["serofoi"],
-    "subdir": "StanHeaders",
-    "from": "serofoi"
-  },
-  {
     "package": "bpmodels",
     "url": "https://github.com/epiverse-trace/bpmodels",
     "via": ["superspreading"],
