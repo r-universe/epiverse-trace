@@ -25,6 +25,7 @@
 [submodule "serofoi"]
 	path = serofoi
 	url = https://github.com/epiverse-trace/serofoi
+	branch = fix-r-universe
 [submodule "superspreading"]
 	path = superspreading
 	url = https://github.com/epiverse-trace/superspreading
