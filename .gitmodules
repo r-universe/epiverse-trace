@@ -2,6 +2,11 @@
 	path = .registry
 	url = https://github.com/epiverse-trace/epiverse-trace.r-universe.dev
 	branch = HEAD
+[submodule "StanHeaders"]
+	path = StanHeaders
+	url = https://github.com/stan-dev/rstan
+	subdir = StanHeaders
+	registered = false
 [submodule "bpmodels"]
 	path = bpmodels
 	url = https://github.com/epiverse-trace/bpmodels
