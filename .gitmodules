@@ -10,9 +10,9 @@
 [submodule "bpmodels"]
 	path = bpmodels
 	url = https://github.com/epiverse-trace/bpmodels
-[submodule "epidemics"]
-	path = epidemics
-	url = https://github.com/epiverse-trace/epidemics
+[submodule "cfr"]
+	path = cfr
+	url = https://github.com/epiverse-trace/cfr
 [submodule "epiparameter"]
 	path = epiparameter
 	url = https://github.com/epiverse-trace/epiparameter
@@ -30,7 +30,6 @@
 [submodule "serofoi"]
 	path = serofoi
 	url = https://github.com/epiverse-trace/serofoi
-	branch = fix-r-universe
 [submodule "superspreading"]
 	path = superspreading
 	url = https://github.com/epiverse-trace/superspreading
