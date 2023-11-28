@@ -10,11 +10,5 @@
     "url": "https://github.com/epiverse-trace/epiparameter",
     "via": ["superspreading"],
     "from": "superspreading"
-  },
-  {
-    "package": "purrr",
-    "url": "https://github.com/tidyverse/purrr",
-    "via": ["serofoi"],
-    "from": "serofoi"
   }
 ]
