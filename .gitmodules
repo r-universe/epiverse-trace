@@ -21,6 +21,9 @@
 [submodule "serofoi"]
 	path = serofoi
 	url = https://github.com/epiverse-trace/serofoi
+[submodule "simulist"]
+	path = simulist
+	url = https://github.com/epiverse-trace/simulist
 [submodule "superspreading"]
 	path = superspreading
 	url = https://github.com/epiverse-trace/superspreading
