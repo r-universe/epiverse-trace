@@ -8,6 +8,9 @@
 [submodule "cfr"]
 	path = cfr
 	url = https://github.com/epiverse-trace/cfr
+[submodule "epidemics"]
+	path = epidemics
+	url = https://github.com/epiverse-trace/epidemics
 [submodule "epiparameter"]
 	path = epiparameter
 	url = https://github.com/epiverse-trace/epiparameter
