@@ -30,3 +30,6 @@
 [submodule "superspreading"]
 	path = superspreading
 	url = https://github.com/epiverse-trace/superspreading
+[submodule "tracetheme"]
+	path = tracetheme
+	url = https://github.com/epiverse-trace/tracetheme
