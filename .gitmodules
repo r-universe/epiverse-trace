@@ -8,6 +8,9 @@
 [submodule "cfr"]
 	path = cfr
 	url = https://github.com/epiverse-trace/cfr
+[submodule "epichains"]
+	path = epichains
+	url = https://github.com/epiverse-trace/epichains
 [submodule "epidemics"]
 	path = epidemics
 	url = https://github.com/epiverse-trace/epidemics
@@ -32,3 +35,6 @@
 [submodule "tracetheme"]
 	path = tracetheme
 	url = https://github.com/epiverse-trace/tracetheme
+[submodule "vaccineff"]
+	path = vaccineff
+	url = https://github.com/epiverse-trace/vaccineff
