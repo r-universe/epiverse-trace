@@ -23,6 +23,9 @@
 [submodule "linelist"]
 	path = linelist
 	url = https://github.com/epiverse-trace/linelist
+[submodule "readepi"]
+	path = readepi
+	url = https://github.com/epiverse-trace/readepi
 [submodule "serofoi"]
 	path = serofoi
 	url = https://github.com/epiverse-trace/serofoi
