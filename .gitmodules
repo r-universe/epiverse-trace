@@ -27,6 +27,9 @@
 [submodule "linelist"]
 	path = linelist
 	url = https://github.com/epiverse-trace/linelist
+[submodule "numberize"]
+	path = numberize
+	url = https://github.com/epiverse-trace/numberize
 [submodule "readepi"]
 	path = readepi
 	url = https://github.com/epiverse-trace/readepi
