@@ -5,6 +5,7 @@
 [submodule "bpmodels"]
 	path = bpmodels
 	url = https://github.com/epiverse-trace/bpmodels
+	registered = false
 [submodule "cfr"]
 	path = cfr
 	url = https://github.com/epiverse-trace/cfr
