@@ -8,6 +8,9 @@
 [submodule "cfr"]
 	path = cfr
 	url = https://github.com/epiverse-trace/cfr
+[submodule "cleanepi"]
+	path = cleanepi
+	url = https://github.com/epiverse-trace/cleanepi
 [submodule "epiCo"]
 	path = epiCo
 	url = https://github.com/epiverse-trace/epiCo
