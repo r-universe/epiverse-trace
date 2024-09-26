@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/epiverse-trace/epiverse-trace.r-universe.dev
 	branch = HEAD
+[submodule "ColOpenData"]
+	path = ColOpenData
+	url = https://github.com/epiverse-trace/ColOpenData
 [submodule "bpmodels"]
 	path = bpmodels
 	url = https://github.com/epiverse-trace/bpmodels
