@@ -45,6 +45,9 @@
 [submodule "simulist"]
 	path = simulist
 	url = https://github.com/epiverse-trace/simulist
+[submodule "sivirep"]
+	path = sivirep
+	url = https://github.com/epiverse-trace/sivirep
 [submodule "superspreading"]
 	path = superspreading
 	url = https://github.com/epiverse-trace/superspreading
