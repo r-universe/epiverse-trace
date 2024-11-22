@@ -12,6 +12,12 @@
     "from": "superspreading"
   },
   {
+    "package": "epiparameterDB",
+    "url": "https://github.com/epiverse-trace/epiparameterDB",
+    "via": ["epiparameter"],
+    "from": "epiparameter"
+  },
+  {
     "package": "fingertipsR",
     "url": "https://github.com/rOpenSci/fingertipsR",
     "via": ["readepi"],

@@ -23,6 +23,10 @@
 [submodule "epiparameter"]
 	path = epiparameter
 	url = https://github.com/epiverse-trace/epiparameter
+[submodule "epiparameterDB"]
+	path = epiparameterDB
+	url = https://github.com/epiverse-trace/epiparameterDB
+	registered = false
 [submodule "finalsize"]
 	path = finalsize
 	url = https://github.com/epiverse-trace/finalsize
