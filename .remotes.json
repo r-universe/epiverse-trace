@@ -20,6 +20,12 @@
   {
     "package": "epiparameterDB",
     "url": "https://github.com/epiverse-trace/epiparameterDB",
+    "via": ["simulist", "epiparameter"],
+    "from": "simulist"
+  },
+  {
+    "package": "epiparameterDB",
+    "url": "https://github.com/epiverse-trace/epiparameterDB",
     "via": ["superspreading", "epiparameter"],
     "from": "superspreading"
   },
