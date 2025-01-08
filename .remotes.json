@@ -14,12 +14,6 @@
   {
     "package": "epiparameterDB",
     "url": "https://github.com/epiverse-trace/epiparameterDB",
-    "via": ["epiparameter"],
-    "from": "epiparameter"
-  },
-  {
-    "package": "epiparameterDB",
-    "url": "https://github.com/epiverse-trace/epiparameterDB",
     "via": ["simulist", "epiparameter"],
     "from": "simulist"
   },
