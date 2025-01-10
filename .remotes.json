@@ -2,20 +2,8 @@
   {
     "package": "epiparameter",
     "url": "https://github.com/epiverse-trace/epiparameter",
-    "via": ["simulist"],
-    "from": "simulist"
-  },
-  {
-    "package": "epiparameter",
-    "url": "https://github.com/epiverse-trace/epiparameter",
     "via": ["superspreading"],
     "from": "superspreading"
-  },
-  {
-    "package": "epiparameterDB",
-    "url": "https://github.com/epiverse-trace/epiparameterDB",
-    "via": ["simulist", "epiparameter"],
-    "from": "simulist"
   },
   {
     "package": "epiparameterDB",
